@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_homework_template=self.webpackChunkreact_homework_template||[]).push([[166],{166:function(e,t,c){c.r(t),c.d(t,{default:function(){return s}});var n="Welcome_container__PoQL9",r="Welcome_title__EAh1s",a=c(184),o=function(){return(0,a.jsx)("div",{className:n,children:(0,a.jsx)("p",{className:r,children:"Welcome to the contacts app !"})})},s=function(){return(0,a.jsx)(o,{})}}}]);
+//# sourceMappingURL=166.2b641eeb.chunk.js.map
